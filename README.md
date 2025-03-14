@@ -15,7 +15,7 @@ The dataset consists of UPI transaction details extracted from an Excel workbook
   
 
 ### 🔄 Data Cleaning & Transformation
-The following transformations were applied using Power Query Editor:
+The following transformations were applied using Power Query Editor
 -	Renamed Sheet1 to 'UPI Transactions' for better clarity.
 -	Converted Account Numbers to Text format to prevent errors in numerical representation.
 -	Extracted Transaction Time by splitting the date-time column and removing the unwanted date component.
@@ -38,7 +38,7 @@ Key visualizations included in the dashboard:
 
 ## Dashboard
 
-![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Page%201.png)
+![Screenshot 2025-02-23 131215]()
 ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Page%201.png)
 
 
