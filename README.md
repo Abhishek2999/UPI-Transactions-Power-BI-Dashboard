@@ -11,7 +11,7 @@ The dataset consists of UPI transaction details extracted from an Excel workbook
 -	Merchant Data: Merchant Name (e.g., Amazon, Flipkart, Swiggy, Zomato, IRCTC)
 
   ## 📊 Dataset Used
-  -  <a href="https://github.com/Abhishek2999/UPI-Transactions-Power-BI-Dashboard/blob/main/UPI%2BTransactions.xlsx">Dataset</a>
+  -  <a href="https://github.com/Abhishek2999/UPI-Transactions-Power-BI-Dashboard/blob/main/UPI%2BTransactions.csv">Dataset</a>
   
 
 ### 🔄 Data Cleaning & Transformation
