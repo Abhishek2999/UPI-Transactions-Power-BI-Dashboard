@@ -38,7 +38,8 @@ Key visualizations included in the dashboard:
 
 ## Dashboard
 
-![Screenshot 2025-02-23 131215]()
+![GIF Description](https://github.com/Abhishek2999/UPI-Transactions-Power-BI-Dashboard/blob/main/UPI%20Transactions%20Dashboard.gif)
+
 ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Page%201.png)
 
 
