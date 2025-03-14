@@ -1,6 +1,7 @@
 # Power BI Dashboard - UPI Transactions Analysis
 ## 📌 Project Overview
-This Power BI project focuses on analyzing UPI (Unified Payments Interface) transaction data. The goal is to transform raw transaction data into meaningful insights using Power BI's data visualization and reporting capabilities.
+This Power BI project analyzes UPI (Unified Payments Interface) transaction data. The goal is to transform raw transaction data into meaningful insights using Power BI's data visualization and reporting capabilities.
+
 ### 📊 Dataset Description
 The dataset consists of UPI transaction details extracted from an Excel workbook. The key columns in the dataset include:
 -	Transaction Details: Transaction ID (unique identifier), Date & Time (timestamp), Amount (value), Status (Success/Failed), Remaining Balance (post-transaction), Currency type 
@@ -18,7 +19,8 @@ The following transformations were applied using Power Query Editor:
 -	Performed Data Profiling to check for null values, blanks, or errors in the dataset.
 -	Applied Conditional Formatting to enhance visualization.
 -	Synced Slicers across different report pages for consistent filtering.
--	Created a DAX Column for Age Grouping to categorize customers based on their age.
+-	Created a DAX Column for Age Grouping to categorize customers based on age.
+
 ### 📈 Power BI Visualizations
 Key visualizations included in the dashboard:
 -	Total Transaction Volume & Value: Aggregate view of UPI transactions.
@@ -29,12 +31,8 @@ Key visualizations included in the dashboard:
 -	Demographic Trends: Insights based on gender, age, and location.
 -	Monthly Trends Visualization: Displayed via a Line Chart and a Column Chart (switchable using bookmarks).
 -	Matrix Visualization: Used to compare transaction values across different dimensions (Cities, Currencies, and Time).
-### 🚀 How to Use This Repository
-1.	Clone the repository: 
-2.	git clone https://github.com/yourusername/powerbi-upi-transactions.git
-3.	Open the Power BI (.pbix) file in Power BI Desktop.
-4.	Connect the dataset (Excel) and refresh the data.
-5.	Explore the dashboard and insights.
+
+
 ### 🏆 Key Learnings
 -	Data cleaning and transformation using Power Query.
 -	Efficient data modelling for better visualization.
@@ -43,8 +41,7 @@ Key visualizations included in the dashboard:
 -	Using Bookmarks to switch between different charts.
 -	Syncing slicers for seamless filtering across multiple pages.
 -	Conditional formatting to highlight trends in the dataset.
+
 ### 📢 Conclusion
-This project demonstrates the power of Power BI in analysing financial transactions and deriving actionable insights. The dashboard effectively presents UPI transaction trends, customer behaviour’s, and merchant performance, making it valuable for businesses and analysts.
-________________________________________
-📌 For any queries, feel free to connect or raise an issue! 🚀
+This project demonstrates the power of Power BI in analysing financial transactions and deriving actionable insights. The dashboard effectively presents UPI transaction trends, customer behaviour, and merchant performance, making it valuable for businesses and analysts.
 
