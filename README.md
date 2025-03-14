@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 This Power BI project analyzes UPI (Unified Payments Interface) transaction data. The goal is to transform raw transaction data into meaningful insights using Power BI's data visualization and reporting capabilities.
 
-### 📊 Dataset Description
+### 📊 Dataset Description  <a href="https://github.com/Abhishek2999/UPI-Transactions-Power-BI-Dashboard/blob/main/UPI%2BTransactions.xlsx">Dataset</a>
 The dataset consists of UPI transaction details extracted from an Excel workbook. The key columns in the dataset include:
 -	Transaction Details: Transaction ID (unique identifier), Date & Time (timestamp), Amount (value), Status (Success/Failed), Remaining Balance (post-transaction), Currency type 
 -	Participant Information: Bank Names (Sender & Receiver), Customer Gender & Age, Customer & Merchant Account Numbers (text format) 
@@ -31,6 +31,12 @@ Key visualizations included in the dashboard:
 -	Demographic Trends: Insights based on gender, age, and location.
 -	Monthly Trends Visualization: Displayed via a Line Chart and a Column Chart (switchable using bookmarks).
 -	Matrix Visualization: Used to compare transaction values across different dimensions (Cities, Currencies, and Time).
+
+## Dashboard
+
+![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Page%201.png)
+![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Power-BI-Dashboards/blob/main/Page%201.png)
+
 
 
 ### 🏆 Key Learnings
